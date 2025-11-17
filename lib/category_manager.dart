@@ -1,6 +1,6 @@
 // 🔹 Exercise 1: Category Management (MUDAH)
 // Izinkan pengguna membuat kategori custom
-
+//MODUL9
 class CategoryManager {
   final List<String> _categories = [
     'Makanan',
