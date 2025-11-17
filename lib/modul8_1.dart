@@ -15,6 +15,7 @@ abstract class PaymentMethod {
     print('✅ Pembayaran sebesar ${formatter.format(amount)} dengan $name berhasil!');
   }
 }
+
 /// --------------------
 /// KELAS EXPENSE
 /// --------------------
